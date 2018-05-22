@@ -10,4 +10,4 @@ $config['controller_folder'] = 'controllers/';
 $config['database']['host'] = 'localhost';
 $config['database']['username'] = 'root';
 $config['database']['password'] = '';
-$config['database']['database'] = 'knn_beasiswa';
+$config['database']['database'] = 'latihan';

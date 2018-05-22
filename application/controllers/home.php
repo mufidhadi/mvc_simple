@@ -1,18 +1,17 @@
 <?php
 
-class home extends MVC
+class home
 {
 
   function __construct()
   {
-    parent::__construct();
-    $this->load->model('data_siswa');
+    
   }
 
   public function index()
   {
-    echo "home";
-    $data['user'] = 'Mufid';
-    $this->load->view('home',$data);
+    $nama = 'mufid';
+    // panggil view
+    include 'application/views/home.php';
   }
 }

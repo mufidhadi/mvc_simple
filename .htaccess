@@ -1,6 +1,6 @@
 RewriteEngine on
 
-RewriteBase /knn_beasiswa/
+RewriteBase /mvc_simple/
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

@@ -18,8 +18,10 @@
 
     <div class="container">
       <div class="jumbotron">
-        <h1>Hello, <?php echo @$data['user'] ?>!</h1>
-        <p></p>
+        <h1>Hello, <?php echo @$nama ?>!</h1>
+        <p>
+          <a href="./mahasiswa/" class="btn btn-primary">mahasiswa</a>
+        </p>
       </div>
     </div>
 
