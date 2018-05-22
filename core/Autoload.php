@@ -1,7 +1,7 @@
 <?php
 /**
-* MVC.PHP
-* Pusat semua pemanggilan class MVC
+* Autoload.PHP
+* Pusat semua pemanggilan class pada sistem MVC
 */
 // panggil config
 require 'application/config/config.php';
