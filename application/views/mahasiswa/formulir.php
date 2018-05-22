@@ -89,7 +89,7 @@
           <div class="col-sm-3">
           </div>
           <div class="col-sm-9">
-            <a href="../" class="btn btn-default">Kembali</a>
+            <a href="./" class="btn btn-default">Kembali</a>
             <button type="submit" class="btn btn-primary">
               Simpan
             </button>
